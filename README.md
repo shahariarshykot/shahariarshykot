@@ -1,4 +1,4 @@
-# 🏄‍♂️ Shahariar Shykot
+# Hi there, I'm Shahariar Shykot
 
 **`Digital Craftsman (Developer/Designer/Programmer)`**
 
