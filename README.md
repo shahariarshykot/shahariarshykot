@@ -41,7 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Shahariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahariarshykot&show_icons=true&theme=radical)
 
 #
 
