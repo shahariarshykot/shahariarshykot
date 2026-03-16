@@ -1,4 +1,4 @@
-# Hi there, I'm Shahariar Shykot
+# Hi there, I'm Sifat Ullah
 
 **`Digital Craftsman (Developer/Designer/Programmer)`**
 
